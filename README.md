@@ -23,6 +23,8 @@ npm start / dev
 ```
 
 Set access and tokens in the `.env`
+
+```
 TRELLO_KEY = ""
 TRELLO_TOKEN = ""
 TELEBOT_TOKEN = ""
@@ -31,7 +33,9 @@ BOARD_NAME = ""
 BOARD_ID = ""
 ID_LABELS = ""
 ID_MEMEBERS = ""
+```
 
+### Command
 
 /hello
 /help: for help

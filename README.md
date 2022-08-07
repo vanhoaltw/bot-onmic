@@ -1,15 +1,7 @@
-# TrelloGramBot
+# OnmicBot
 
 A bot for interacting with Trello boards from Telegram.
 
-This bot was developed to be run on the Lightning makers Telegram chat group, but you can run this bot anywhere.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine.
-
-
-### Prerequisites
 
 ### Installing
 
@@ -37,6 +29,8 @@ ID_MEMEBERS = ""
 
 ### Command
 
+```
 /hello
 /help: for help
 /bug: for log bug and create card in trello
+```
